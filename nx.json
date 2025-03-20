@@ -34,8 +34,10 @@
       }
     }
   ],
-  "nxCloudId": "67db8ab82c6f55094488b1ea",
+  "nxCloudId": "67dc2446a893c3e982f54cfe",
   "release": {
-    "projects": ["packages/*"]
+    "projects": [
+      "packages/*"
+    ]
   }
 }
